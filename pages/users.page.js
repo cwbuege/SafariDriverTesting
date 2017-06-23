@@ -18,11 +18,11 @@ var UsersPage = function () {
      * @param timezone
      * @constructor
      */
-    this.UserEntry = function(){
+    this.userEntry = function(){
 
         console.log('');
         console.log('-----------------------------------');
-        console.log('Function:  UserEntry');
+        console.log('Function:  userEntry');
         console.log('-----------------------------------');
 
         /**

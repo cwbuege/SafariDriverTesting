@@ -13,7 +13,6 @@
   "devDependencies": {
     "del": "^1.2.1",
     "gulp": "^3.9.0",
-    "gulp-browserstack": "1.0.0",
     "gulp-install": "^0.5.0",
     "gulp-param": "^0.6.3",
     "gulp-protractor": "^3.0.0",
