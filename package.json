@@ -1,0 +1,24 @@
+{
+  "name": "SafariDriverTesting",
+  "author": "Charles Buege",
+  "version": "1.0.0",
+  "description": "Testing the SafariDriver for browser.refresh, select/option boxes",
+  "repository": "https://github.com/cwbuege/SafariDriverTesting.git",
+  "README": "Test",
+  "license": "Public",
+  "scripts": {
+    "install": "node node_modules/protractor/bin/webdriver-manager update"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-browserstack": "1.0.0",
+    "gulp-install": "^0.5.0",
+    "gulp-param": "^0.6.3",
+    "gulp-protractor": "^3.0.0",
+    "gulp-util": "^3.0.7",
+    "jasmine-reporters": "^2.2.0",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "loginTimeOutinms": 30000,
+  "logoutTimeOutinms": 5000,
+  "pageRefreshTimeOut": 10000,
+  "pageRefreshTimeOutEdge": 15000,
+  "assetCreation": 5000,
+  "groupCreation": 5000,
+  "projectCreation": 5000,
+  "userCreation": 5000,
+  "locationCreation": 5000,
+  "zoneCreation": 5000,
+  "dealerCreation": 5000,
+  "customerCreation": 5000,
+  "alertCreation": 5000,
+  "maintTaskCreation" : 5000,
+  "maintScheduleCreation" : 5000,
+  "maintPlanCreation" : 5000
+}
