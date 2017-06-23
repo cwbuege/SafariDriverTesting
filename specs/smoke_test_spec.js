@@ -40,8 +40,8 @@ describe('MRM Web Smoke Test', function () {
      * Refresh browser after each test
      */
     beforeEach(function () {
-        browser.ignoreSynchronization = true;
-        browser.refresh();
+//        browser.ignoreSynchronization = true;
+//        browser.refresh();
     });
 
     /**
